@@ -1,7 +1,6 @@
-<!DOCTYPE html>
 <html>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+<h1>The Best Doggo</h1>
+<img src="https://imgur.com/a/q6YImKD">
 </body>
 </html>
